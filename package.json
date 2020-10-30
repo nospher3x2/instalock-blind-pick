@@ -1,0 +1,16 @@
+{
+  "name": "instalock-seraphine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Nospher",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "https": "^1.0.0",
+    "lcu-connector": "^2.1.3"
+  }
+}
